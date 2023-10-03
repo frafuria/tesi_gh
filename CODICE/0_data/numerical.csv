@@ -1,0 +1,17 @@
+,0
+0,InterestRate
+1,MinorityRatio
+2,CensusTractMedFamIncome
+3,MonthlyIncome
+4,HUDMedIncome
+5,LTV
+6,PaymentCount
+7,Age1
+8,Age2
+9,HousingExpense
+10,DebtExpense
+11,PMI
+12,CreditScore1
+13,CreditScore2
+14,NoteDate
+15,NoteAmount
